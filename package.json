@@ -12,6 +12,17 @@
   "author": "siwananda",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^1.7.2"
-  }
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlreilly/chatbot-serverless.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnlreilly/chatbot-serverless/issues"
+  },
+  "homepage": "https://github.com/johnlreilly/chatbot-serverless#readme"
 }
